@@ -14,6 +14,11 @@ The current commands are as follows:
 2. Make a new project on Pycharm to make a venv file (or do it yourself)
 3. In either python or on your code editor, run the program and wait for it to say: Bot Online and Connected.
 
+                                                          -OR-
+1. Download PreMade.zip
+2. Keep al the files in the same location but extract it anywhere on your pc
+3. Run the python file (all the plugins needed for this bot is in a premade venv folder so no need to make your own!)
+
 # The Credits & a Bit More
 
 If you like this project and wish to see more commands, please star this project as it helps me GREATLY in exposure.
