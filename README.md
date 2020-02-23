@@ -9,6 +9,13 @@ The current commands are as follows:
   $nuke - NEVER RUN THIS COMMAND UNLESS YOU HAVE EXPLICIT PERMISSION FROM THE SERVER OWNER - Takes advantages of line brakes and keeps putting "nuke" in the chat over 1mil times.
   
   
+# How To Use It and Install It:
+1. Download/Clone this repository
+2. Make a new project on Pycharm to make a venv file (or do it yourself)
+3. In either python or on your code editor, run the program and wait for it to say: Bot Online and Connected.
+
+# The Credits & a Bit More
+
 If you like this project and wish to see more commands, please star this project as it helps me GREATLY in exposure.
 
 
